@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .section-one {
+            width: 500px;
+            height: 600px;
+            background-image: url('https://http2.mlstatic.com/D_NQ_NP_2X_679399-MLU71038176907_082023-F.webp');
+            background-size: cover;
+            background-position: center center;
+            color: black;
+            font-size: 18px;
+            padding: 100px 10px 0 5px;
+            border: 10px solid black;
+            margin: 10px;
+            padding: 10px 310px 10px 10px;
+            
+        }
+        .section-two {
+            width: 500px;
+            color: white;
+            font-size: 20px;
+            padding: 100px 10px 0 5px;
+            border: 10px solid rgb(32, 19, 75);
+            margin: 10px;
+            padding: 10px 10px 10px 200px;
+            background: rgb(141, 160, 243)
+            
+        }
+    </style>
+
+</head>
+
+<body>
+  
+    <section class="section-one">Jean, deixe de lado esse tal de Xenoblade 2 e 3, 
+        venha logo para a nova geração e <b><i>adquira já seu ps5</i></b>, 
+        nele você poderá jogar vários jogos a 30fps, 
+        pois essa geração está sendo a maior mentira de todos os tempos.
+        <br><br>
+        Por favor, precisamos aniquilar esse estoque, pense com carinho!!!
+        <br><br>
+        <span style="font-size: 24px;">€ 499,99</span>
+    </section>
+    <section class="section-two">
+        <a href="https://www.mercadolivre.com.br/console-sony-playstation-5-standard-edition
+        -825gb/p/MLB22824411?item_id=MLB4431253188&from=gshop&matt_tool=86203044&matt_word=&matt
+        _source=google&matt_campaign_id=14303413802&matt_ad_group_id=125984296317&matt_match_type=
+        &matt_network=g&matt_device=c&matt_creative=539354956932&matt_keyword=&matt_ad_position=
+        &matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB22824411-product&matt_product
+        _partition_id=2267622245962&matt_target_id=pla-2267622245962&cq_src=google_ads&cq_cmp=14303413802&cq_
+        net=g&cq_plt=gp&cq_med=pla&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx41GMY8ApNGvIrY7bTAub5KxpACnSx0ioMhzu
+        -F5GRoIRErr_J45PhoC4GEQAvD_BwE">BUY!!!</a>
+    </section>
+    
+</body>
+
+</html>
